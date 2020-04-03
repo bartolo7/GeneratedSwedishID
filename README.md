@@ -1,8 +1,10 @@
 
 # Swedish ID Number For Testing Purpose
-The personal identity number (Swedish: personnummer) is the Swedish national identification number
+The personal identity number (Swedish: personnummer) is the Swedish national identification number.
 
-QA requires dataset and if you live in Sweden, you are nothing without Swedish ID number when testing your Webb, APP or Back-End service with Swagger, PostMan, JMeter, Cypress..
+Quality Assurance requires reliable dataset and if you live in Sweden, you are nothing without Swedish ID number. 
+
+The JS and Java classe of this project will help you to test your Webb, APP or Back-End service with PostMan, JMeter, RestAssure, Cypress...whenever a valid swedish is is needed.
 
 ![Swedish_ID](specimen_ID.png)
 
