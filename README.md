@@ -19,3 +19,5 @@ Note: The verify part of the JS code is taken from here: https://gist.github.com
 ### Validate the generated Swedish ID here:
   https://codepen.io/LasseStilvang/pen/WrLKbb
 
+# Author
+David Bartolomé
