@@ -13,6 +13,8 @@ If you are reading this you have come across the point that you need Valid Swedi
     Copy GenerateSwedishID.java in our project and run generateSwedishID()
 
 ### JavaScript Code to Generate Valid Swedish ID
+    Copy GenerateSwedishID.js and just run it in the terminal.
+The verify part of the code is taken from here: 
 
 ### Validate the generated Swedish ID here:
   https://codepen.io/LasseStilvang/pen/WrLKbb
