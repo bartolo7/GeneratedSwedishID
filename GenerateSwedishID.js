@@ -75,5 +75,5 @@ const validatePersonalNumber = (input) => {
   return sum % 10 == 0;
 };
 
-// Just run in the terminal node 
+// Just run in the terminal node GenerateSwedishID.js
 console.log(generteSwedishIdNumber());
