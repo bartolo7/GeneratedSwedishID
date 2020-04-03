@@ -14,7 +14,7 @@ If you are reading this you have come across the point that you need Valid Swedi
 
 ### JavaScript Code to Generate Valid Swedish ID
     Copy GenerateSwedishID.js and just run it in the terminal.
-Note: The verify part of the code is taken from here: https://gist.github.com/peppelorum/5856691
+Note: The verify part of the JS code is taken from here: https://gist.github.com/peppelorum/5856691
 
 ### Validate the generated Swedish ID here:
   https://codepen.io/LasseStilvang/pen/WrLKbb
