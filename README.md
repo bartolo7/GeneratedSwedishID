@@ -9,10 +9,10 @@ QA requires dataset and if you live in Sweden, you are nothing without Swedish I
 # GeneratedSwedishID
 If you are reading this you have come across the point that you need Valid Swedish IDs to test your application.Then, you are in the right place my friend 🖖🏻!!
 
-# Java Code to Generate Valid Swedish ID
+### Java Code to Generate Valid Swedish ID
 
-# JavaScript Code to Generate Valid Swedish ID
+### JavaScript Code to Generate Valid Swedish ID
 
-# Validate the generated Swedish ID here:
+### Validate the generated Swedish ID here:
   https://codepen.io/LasseStilvang/pen/WrLKbb
 
