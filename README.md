@@ -2,7 +2,7 @@
 # Swedish ID Number
 The personal identity number (Swedish: personnummer) is the Swedish national identification number
 
-QA requires dataset and if you live in Sweden, you are nothing without Swedish ID number.
+QA requires dataset and if you live in Sweden, you are nothing without Swedish ID number when testing your Webb, APP or Back-End service with Swagger, PostMan, JMeter, Cypress..
 
 ![Swedish_ID](specimen_ID.png)
 
